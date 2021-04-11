@@ -5,5 +5,3 @@
  - 筆記心得整理寫於 Notion，連結如下
 
 🦋 [CodeWars 練題首頁](https://www.notion.so/af6fb96285e942c4a223eab16475752e)
-
-🦋 [全部練題首頁](https://www.notion.so/a45cc8ebebb94038a6daa7821ee32ca6)
